@@ -1,0 +1,6 @@
+site_name: Python learnning
+nav:
+    - Home: index.md
+    - About: about.md
+theme: bootstrap4  # gitbook, material, 
+suppress_nextprev: true  # for bootstrap4
