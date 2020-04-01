@@ -1,4 +1,3 @@
-# Welcome to Xiaoshutong'Zone
 
 
 ## WHO

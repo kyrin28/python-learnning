@@ -1,7 +1,6 @@
 site_name: Python learnning
 nav:
-    - About: about.md
+    - 关于: about.md
     - 搭建个人站点指导: 搭建个人站点指导.md
-    - Home: index.md
 theme: readthedocs  # gitbook, material, bootstrap4
 # suppress_nextprev: true  # for bootstrap4
