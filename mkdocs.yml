@@ -3,5 +3,6 @@ nav:
     - 关于: about.md
     - 搭建个人站点指导: 搭建个人站点指导.md
     - MySQL要点梳理: MySQL要点梳理.md
+    - Redis要点梳理: Redis要点梳理.md
 theme: readthedocs  # gitbook, material, bootstrap4
 # suppress_nextprev: true  # for bootstrap4
